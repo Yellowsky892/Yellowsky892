@@ -2,7 +2,7 @@
 - 👀 I’m interested in pushing technology to the limit 
 - 🌱 I’m currently learning basic
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me not sure yey
+- 📫 How to reach me not sure yet***
 
 <!---
 Yellowsky892/Yellowsky892 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
